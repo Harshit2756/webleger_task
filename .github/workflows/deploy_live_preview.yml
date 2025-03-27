@@ -303,7 +303,6 @@ jobs:
           import 'package:device_preview/device_preview.dart';
           import 'device_preview_button.dart';
 
-          #. Replace with your main imports
           import 'package:flutter/material.dart';
           import 'package:flutter/services.dart';
           import 'package:get/get.dart';
